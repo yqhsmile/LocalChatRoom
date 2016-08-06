@@ -1,0 +1,28 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: QQ_client - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\yqh\AppData\Local\Temp\RSPA2D7.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/QQ_client.pdb" /debug /machine:I386 /out:"Debug/QQ_client.exe" /pdbtype:sept 
+".\Debug\QQ_client.obj"
+".\Debug\QQ_clientDlg.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TalkDlg.obj"
+".\Debug\QQ_client.res"
+]
+Creating command line "link.exe @C:\Users\yqh\AppData\Local\Temp\RSPA2D7.tmp"
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+QQ_client.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
